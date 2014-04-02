@@ -10,7 +10,7 @@ func main() {
 	var inputStr string
 	var inputfloat float64
 
-	fmt.Paintln("\n")
+	fmt.Println("\n")
 	fmt.Println("############## START #############")
 	fmt.Print("Please Enter number to Cal Squeroot >> ")
 	fmt.Scanln(&inputStr)
